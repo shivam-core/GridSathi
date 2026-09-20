@@ -1,0 +1,20 @@
+{
+  "systemName": "GridSathi: Loadshift",
+  "version": "1.0.0",
+  "targetCampus": "Bharati Vidyapeeth College of Engineering, Pune",
+  "coordinates": {
+    "lat": 18.4575,
+    "lon": 73.8508
+  },
+  "gridLimits": {
+    "sanctionedPeakKva": 250,
+    "transformerMaxKw": 300,
+    "dieselGeneratorThresholdKw": 220
+  },
+  "conformalSettings": {
+    "confidenceLevel": 0.95,
+    "calibrationWindowDays": 14,
+    "defaultVarianceFactor": 0.22
+  },
+  "timeHorizonHours": 24
+}
